@@ -1,6 +1,5 @@
 Here's a beautifully structured `README.md` for your project:  
 
-```markdown
 # 🎉 New Year Resolution Card Generator 🎆
 
 Welcome to the **New Year Resolution Card Generator**! This project allows you to create stunning and personalized resolution cards to celebrate the new year. Write your resolutions, customize them with unique bullet points, and download your card to share with friends and family!  
@@ -35,9 +34,9 @@ Welcome to the **New Year Resolution Card Generator**! This project allows you t
 ## 🚀 How to Use  
 
 1. Clone this repository:  
-   ```bash
+   bash
    git clone https://github.com/your-username/new-year-resolution-card.git
-   ```  
+   
 
 2. Open the `index.html` file in your browser.  
 
@@ -59,17 +58,17 @@ Welcome to the **New Year Resolution Card Generator**! This project allows you t
 
 ### Change Background  
 - Replace the background images in the CSS file:  
-  ```css
+  css
   body {
       background: url('/path-to-your-image.jpg') no-repeat center/cover;
   }
-  ```
+  
 
 ### Add New Bullet Styles  
 - Add new buttons in the HTML with a unique `data-bullet` value:  
-  ```html
+  html
   <button class="bullet-btn" data-bullet="🔥">🔥</button>
-  ```
+  
 
 ### Modify Footer Links  
 - Update the links in the footer to match your personal or project links.  
