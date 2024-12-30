@@ -1,5 +1,3 @@
-Here's a beautifully structured `README.md` for your project:  
-
 # 🎉 New Year Resolution Card Generator 🎆
 
 Welcome to the **New Year Resolution Card Generator**! This project allows you to create stunning and personalized resolution cards to celebrate the new year. Write your resolutions, customize them with unique bullet points, and download your card to share with friends and family!  
